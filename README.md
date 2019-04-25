@@ -1,2 +1,2 @@
-# trio
-Trio is an ML based Traffic Orchestrator 
+# Trio
+Trio is an ML based Trip Orchestrator for on demand passenger transport
